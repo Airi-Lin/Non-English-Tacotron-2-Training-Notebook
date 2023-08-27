@@ -1,5 +1,6 @@
 # Non-English-Tacotron-2-Training-Notebook
 Tacotron 2 training notebook supporting Japanese, French, and Mandarin
+(Original repo by Mildemelwe, Patches taken from the Uberduck TT2 training notebook, credits to them, I just "glue" them)
 # Overview
 This notebook is meant to provide easier access to training Tacotron 2 models in languages other than English. Currently, Japanese (TALQu and neuTalk phonetics), French, and Mandarin pretrained models are included, but the plan is to include more in the future, such as German. For Japanese, it is recommended to use the neuTalk phonetics and pretrained model.
 # Supported audio
